@@ -1,4 +1,4 @@
-# ELRP Discord Rich Presence
+# Leon Discord Rich Presence
 
 This FiveM script integrates Discord Rich Presence with your ESX server, displaying player-specific details such as job, admin tags, and server information directly in Discord.
 
