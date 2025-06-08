@@ -48,5 +48,5 @@ Config.LargeAssetName = 'logo1'       -- Large image asset
 Config.LargeAssetText = 'ELRP'        -- Hover text for large asset
 Config.Buttons = {
     { index = 0, name = 'Discord', url = 'https://discord.gg/exiledlegacyrp' },
-    { index = 1, name = 'Connect', url = 'fivem://connect/38.76.247.42:30120' }
+    { index = 1, name = 'Connect', url = 'fivem://connect/YOURIPHERE:30120' }
 }
