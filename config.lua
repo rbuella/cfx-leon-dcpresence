@@ -12,7 +12,7 @@ Config.UseJobs = true
 -- Buttons
 Config.Buttons = {
     { index = 0, name = 'Discord', url = 'https://discord.gg/exiledlegacyrp' },  --- Discord Link
-    { index = 1, name = 'Connect', url = 'fivem://connect/38.76.247.42:30120' }  --- IP
+    { index = 1, name = 'Connect', url = 'fivem://connect/YOURIPHERE:30120' }  --- IP
 }
 
 -- Admin/Staff Tag Configuration
